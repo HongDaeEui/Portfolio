@@ -13,6 +13,9 @@
 
   Web3.js는 JavaScript 기반으로 JSON RPC API와 함께 Ethereum의 표준 API이다. 이더리움은 스마트 컨트랙트의 함수를 싱행하고   자 한다면 노드에 질의를 보내 1. 스마트 컨트랙트의 주소 2. 실행할 함수 3. 함수에 전달할 변수들을 전달해야 하는데, JSON-RPC   가 아닌 자바스크립트 인터페이스로 상호작용할 수 있게 해 준다.
   
+## 프로젝트 시연 동영상
+https://www.youtube.com/watch?v=Oh6sJ7JS0Qw
+
  ------------
  
  ## 기능
