@@ -26,22 +26,22 @@ NFT를 활용한 묘목기부 플랫폼의 사이트 기획 및 콘텐츠 구현
 ### 팀원 소개
 #### 팀명 : 데우스
 
-팀원/홍대의
-담당역할 : 기획, 프론트엔드, 컨트랙트 개발
-업무내용 : 기획 아이디어 제시하고, 웹 사이트 디자인 및 프레임 설계하고, 컨트랙트 개발함
-사용툴 : Vue.js, HTML, CSS, BootStrap5, Web3.js, Solidity, Remix IDE 
-팀원/김의천
-담당역할 : 개발 총괄, 프론트엔드, 백엔드, 컨트랙트 개발
-업무내용 : 팀원들이 개발한 내용이 잘 맞춰질 수 있도록 개발 방향성을 이끌어감
-사용툴 : Vue.js, HTML, CSS, BootStrap5, Web3.js, DB/MySQL, Server/Node.js, Express
-팀원/정재승
-담당역할 : 기획, 프론트엔드, 컨트랙트 개발
-업무내용 : 기획 아이디어 제시하고, 나무 카드 디자인과 웹 사이트 디자인 및 프레임 설계
-사용툴 : Vue.js, HTML, CSS, BootStrap5, Web3.js, Solidity, Remix IDE, Figma
-팀원/최재람
-담당역할 : 기획, 프론트엔드
-업무내용 : 팀원들의 개발 보조하고, 기획 및 산출물 작성 관리
-사용툴 : Vue.js, HTML, CSS, BootStrap5
+##### 팀원/홍대의
++ 담당역할 : 기획, 프론트엔드, 컨트랙트 개발
++ 업무내용 : 기획 아이디어 제시하고, 웹 사이트 디자인 및 프레임 설계하고, 컨트랙트 개발함
++ 사용툴 : Vue.js, HTML, CSS, BootStrap5, Web3.js, Solidity, Remix IDE 
+##### 팀원/김의천
++ 담당역할 : 개발 총괄, 프론트엔드, 백엔드, 컨트랙트 개발
++ 업무내용 : 팀원들이 개발한 내용이 잘 맞춰질 수 있도록 개발 방향성을 이끌어감
++ 사용툴 : Vue.js, HTML, CSS, BootStrap5, Web3.js, DB/MySQL, Server/Node.js, Express
+##### 팀원/정재승
++ 담당역할 : 기획, 프론트엔드, 컨트랙트 개발
++ 업무내용 : 기획 아이디어 제시하고, 나무 카드 디자인과 웹 사이트 디자인 및 프레임 설계
++ 사용툴 : Vue.js, HTML, CSS, BootStrap5, Web3.js, Solidity, Remix IDE, Figma
+##### 팀원/최재람
++ 담당역할 : 기획, 프론트엔드
++ 업무내용 : 팀원들의 개발 보조하고, 기획 및 산출물 작성 관리
++ 사용툴 : Vue.js, HTML, CSS, BootStrap5
 
 ---------------------
 
